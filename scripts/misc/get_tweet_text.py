@@ -3,10 +3,10 @@
 
 import tweepy
 
-consumer_key = 'KQIA4UKnXvLfQZX8ycTCXxT1V'
-consumer_secret = 'fUjoxxJoyZSe0KjMkPrtvnlQ3LPBSNOrokjC9Si7YrVFGy5OX6'
-access_token = '1006645590992785408-OKIM9hFF41PTrXdXfX62LVS4UYa2Yv'
-access_token_secret = 'lyunnQNPeBPHHnlWBFmj5fKgS6OeX58O1UF3iNP54KDax'
+consumer_key = 'please use yours'
+consumer_secret = 'please use yours'
+access_token = 'please use yours'
+access_token_secret = 'please use yours'
 
 
 class TweetReader(object):
